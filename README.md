@@ -1,4 +1,4 @@
-# Kniffel
+# Kniffel fork (some tests missing)
 
 ## Used Software Versions
 - Python 3.10.2
