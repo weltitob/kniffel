@@ -13,7 +13,7 @@
 
 ## Programmablaufplan
 
-![image](https://user-images.githubusercontent.com/95380067/166104426-45a0541b-7db7-4eae-af67-d100ebb5c255.png)
+![image](https://user-images.githubusercontent.com/95380067/166115657-40bb717c-0faf-472d-83bd-e0379c96c970.png)
 
 ## Pytest
 
